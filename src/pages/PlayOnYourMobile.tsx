@@ -7,8 +7,8 @@ export default function PlayOnYourMobile() {
         alt="qrcode"
         className="object-contain max-w-xs rounded-xl"
       />
-      <a href="https://t.me/vloeicoingamingbot?startapp" className="text-2xl font-semibold">
-        @VloeiCoinGamingBot
+      <a href="https://t.me/froogsbot?startapp" className="text-2xl font-semibold">
+        @froogsBot
       </a>
     </div>
   );
